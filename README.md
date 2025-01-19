@@ -1,7 +1,6 @@
 # Log Processor Implementation Guide
 
-![Screenshot 2025-01-20 at 3 30 20 AM](https://github.com/user-attachments/assets/64c9ddb3-49b2-40c4-8f6c-0def0aa84fad)
-
+![Screenshot 2025-01-20 at 3 34 50 AM](https://github.com/user-attachments/assets/6ee8c377-5bc1-4966-ac96-4c1d26aa734a)
 
 ## Part 1: Implementation Details
 
