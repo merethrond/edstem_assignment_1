@@ -61,5 +61,5 @@ def lambda_handler(event, context):
 - REST API endpoint creation
 - Testing procedures:
   - Postman verification
-  - cURL command testing
-  - Response validation
+  - cURL command testing    
+![Screenshot 2025-01-20 at 4 39 10 AM](https://github.com/user-attachments/assets/fbba131d-3c67-4cb9-869b-cb863d41c65c)
